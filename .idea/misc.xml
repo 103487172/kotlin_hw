@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/phann/AndroidStudioProjects/Compose/app/src/main/res/drawable-v24/ic_send.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/phann/AndroidStudioProjects/Compose/app/src/main/res/drawable/ic_attachment.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/phann/AndroidStudioProjects/Compose/app/src/main/res/drawable/ic_back_arrow.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/phann/AndroidStudioProjects/Compose/app/src/main/res/drawable/ic_down_arrow.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/phann/AndroidStudioProjects/Compose/app/src/main/res/drawable/ic_more.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/phann/AndroidStudioProjects/Compose/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/phann/AndroidStudioProjects/Compose/app/src/main/res/menu/nav_menu.xml" value="0.12" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
